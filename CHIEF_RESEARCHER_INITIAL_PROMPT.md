@@ -66,7 +66,8 @@ Read:
 12. research/COMPUTE_BACKLOG.md
 13. research/WEB_SEARCH_BACKLOG.md
 14. research/coordination/PROTOCOL.md
-15. research/source/
+15. research/SELF_CONTAINED_CONTEXT.md
+16. research/source/
 
 ## First scientific task: define the robust object
 Before paper writing:
