@@ -58,3 +58,14 @@ Return under research/coordination/compute-to-chief/ with task ID, branch, final
 Do not modify paper/ unless explicitly requested.
 
 Your purpose is to expose structure, quantify conservatism, and make universal claims auditable.
+
+
+## Repository isolation
+
+You have access only to this project repository for project context.
+
+Do not read, clone, inspect, or depend on another GitHub repository. Historical provenance links are informational only; all inherited knowledge needed for this project has already been copied locally.
+
+All computational work — task returns, code, tests, manifests, data, figures, validation reports and reproducibility instructions — must be committed to this repository under the paths defined by research/coordination/PROTOCOL.md.
+
+Do not keep decisive computational evidence only in chat or on ORION/AUREUS. The repository is the authoritative project record.
